@@ -1,0 +1,10 @@
+czerwony,okrągły,lekka,jabłko
+zielony,okrągły,lekka,jabłko
+żółty,wydłużony,średnia,banan
+żółty,wydłużony,średnia,banan
+zielony,podłużny,lekka,cytryna
+żółty,podłużny,lekka,cytryna
+żółty,okrągły,średnia,cytryna
+czerwony,okrągły,średnia,jabłko
+żółty,wydłużony,lekka,banan
+zielony,okrągły,średnia,jabłko
